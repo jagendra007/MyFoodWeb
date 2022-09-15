@@ -1,4 +1,4 @@
-/*CSS reset */
+ /*CSS reset */
 
 *{
     margin: 0%;
@@ -84,7 +84,7 @@
 #home::before{
     content: "";
     position: absolute;
-    background:url('../img/coffee-beans-g231045450_1920.jpg')no-repeat center center/cover;
+    background-image:url("/img/coffee-beans-g231045450_1920.jpg")no-repeat center center/cover;
     height: 600px;
     top: 0px;
     left: 0px;
